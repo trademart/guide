@@ -270,7 +270,18 @@ On some weapons, such as the Negev there isn't really a best or worst position a
 
 ### The Skin
 
-need to copy from old
+**The actual skin the stickers are on determines the value drastically.**
+
+Back in 2014, these stickers were practically worthless, which led to people applying them on really cheap and bad weapons, for no reason. You can find a lot of 3 cent skins with one or two Katowice 2014 stickers on them, but these are also examples of skins that add the least value.
+
+The Ak-47 Blue Laminate was the most used skin back then, which is the reason so many people have made sticker crafts on them, and why there are so many of them out there.
+Thus, due to the quantity, the sticker price for this particular skin is in general considered of lower value, than on other Ak's.
+
+If we are talking about skins, that were crafted when the stickers were already expensive, which means basically any skin that came past 2016, it was likely crafted on purpose and there aren't many out there like it. This increases the sticker value.
+
+This is also the reason, that newer stickers like The Crown, that was expensive ever since its release, add more of a value to any skin compared to Katowice 2014's, which are more subjective.
+
+In general, the newer and more desirable the skin is, the higher sticker percentage applies.
 
 ### Meme Guns
 
