@@ -249,6 +249,25 @@ Although, whether it is truly the best position, can be subjective to one's own 
 The best position on a gun is usually the one that is visible the most, no matter the player model.
 A bad sticker position is considered to be a place, where the sticker is either covered by the player model while in-game and can be seen only when inspecting, or is really distorted by the bumps on the weapon.
 
+![enter image description here](https://trademart.gg/guide/assets/img/sticker_example1.jpg)
+![enter image description here](https://trademart.gg/guide/assets/img/sticker_example2.jpg)
+_In this example, the worst position would be the handle, since the sticker is covered by the hand._
+
+The best position would be the one above the handle, as there the sticker is the largest and most visible, even while not inspecting the skin.
+The other two spots on the barrel are subjectively second and third best positions.
+
+**The rough rule of thumb is 5% sticker percentage for best position and 0.5% for worst position.**
+Sometimes more, sometimes less, it truly depends.
+
+The same percentage does not apply in a case, where we talk about a 4x craft of the same sticker, such as the Glock in the example. With crafts like these, we add up the price of all the stickers together and take a single percentage from that.
+
+When a sticker is a 4x (meaning it has 4 of the same sticker on it) it boosts the value drastically.
+This means, that the person who buys it, buys a finished craft and won't have to purchase the additional stickers separately in order to finish it.
+
+**Due to this fact, sticker percentage on these skins can go as high as 60%, if it is a fitting skin, in its best wear and usually featuring stat-trak as well, if possible.**
+
+On some weapons, such as the Negev there isn't really a best or worst position and it comes down either to personal preference, or aesthetics of the symmetrical proportions where the stickers fit.
+
 ### The Skin
 
 need to copy from old
