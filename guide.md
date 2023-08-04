@@ -243,7 +243,11 @@ In most cases, applied stickers are seen as completely worthless to other trader
 
 ### Sticker Placement
 
-need to copy from old
+**Most weapons have their own best and worst positions.**
+Although, whether it is truly the best position, can be subjective to one's own liking, amongst collectors, there usually is an agreed-upon standard.
+
+The best position on a gun is usually the one that is visible the most, no matter the player model.
+A bad sticker position is considered to be a place, where the sticker is either covered by the player model while in-game and can be seen only when inspecting, or is really distorted by the bumps on the weapon.
 
 ### The Skin
 
